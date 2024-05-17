@@ -20,7 +20,7 @@
 - 🪼 I’m interested in front-end and back-end for web development.
 - 🌱 I’m in the process of learning Next.js and Three.js.
 - 🐟 Most of my works are on GitHub, some are still being transferred over!
-- ⚓ Let's connect by @ email or LinkedIn!
+- ⚓ Let's connect @ email or LinkedIn!
 
 <br>
 
