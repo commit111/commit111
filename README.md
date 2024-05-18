@@ -17,7 +17,7 @@
 
 
 - 🫧 Hello! I'm Linda, and welcome to my page!
-- 🪼 I’m interested in front-end and back-end for web development.
+- 🪼 I’m interested in full-stack web development. Check out my <a href="https://linda-internet-style.glitch.me/">portfolio</a>!
 - 🌱 I’m in the process of learning Next.js and Three.js.
 - 🐟 Most of my works are on GitHub, some are still being transferred over!
 - ⚓ Let's connect @ email or LinkedIn!
