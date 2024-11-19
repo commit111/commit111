@@ -19,7 +19,7 @@
 
 - 🫧 Hello! I'm Linda, and welcome to my page!
 - 🪼 I’m interested in full-stack web development. Check out my <a href="https://linda-internet-style.glitch.me/">portfolio</a>!
-- 🐟 I’m in the process of learning Go.
+- 🐟 I’m in the process of learning Go and cloud computing.
 - ⚓ Let's connect @ email or LinkedIn!
 
 <br>
